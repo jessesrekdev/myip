@@ -1,0 +1,7 @@
+{
+  "name": "My IP",
+  "description": "A sleek, modern utility to discover your network identity. Displays local and public IP addresses with AI-powered network insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
